@@ -1,0 +1,22 @@
+.card-body, .titulo {
+    text-align: center;
+}
+body {
+    background-color: #B2EBF2;
+    margin-top: 5px;
+    margin-bottom: 120px;
+}
+a {
+    color:rgb(0, 0, 0);
+}
+#ingresar{
+    position: absolute;
+    right: 20px;
+    text-align: center;
+}
+#imagenes{
+    width: 30% ;
+}
+section{
+    display: flex;
+}
